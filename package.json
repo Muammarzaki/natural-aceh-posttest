@@ -1,0 +1,23 @@
+{
+  "name": "natural-aceh-posttest",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/a11y": "1.0.0-alpha.1",
+    "@nuxt/content": "3.16.2",
+    "@nuxt/icon": "2.6.2",
+    "@nuxt/image": "2.2.1",
+    "@nuxtjs/seo": "6.0.1",
+    "better-sqlite3": "^13.0.3",
+    "nuxt": "^4.6.4",
+    "vue": "^3.5.44",
+    "vue-router": "^5.4.0"
+  }
+}
