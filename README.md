@@ -71,4 +71,4 @@ npm run build
 npm run preview
 ```
 
-Background music attempts to autoplay. The small fixed control in the bottom-right corner mutes or unmutes it and provides localized accessible labels. Browsers that block audible autoplay can start playback from the same control.
+Background music attempts to autoplay. If the browser blocks audible autoplay, playback starts after the first interaction with the page. The small fixed control in the bottom-right corner mutes or unmutes it and provides localized accessible labels.

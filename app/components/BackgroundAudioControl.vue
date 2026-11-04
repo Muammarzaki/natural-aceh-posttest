@@ -5,6 +5,29 @@ const hasStarted = ref(false)
 const playbackError = ref(false)
 const { t } = useI18n()
 
+const removeInteractionListeners = () => {
+  window.removeEventListener('pointerdown', startAfterInteraction)
+  window.removeEventListener('keydown', startAfterInteraction)
+}
+
+const startAfterInteraction = async (event: Event) => {
+  if ((event.target as HTMLElement | null)?.closest?.('.audio-control')) return
+  if (!audio.value || soundOn.value) {
+    removeInteractionListeners()
+    return
+  }
+
+  try {
+    await audio.value.play()
+    soundOn.value = true
+    hasStarted.value = true
+    playbackError.value = false
+    removeInteractionListeners()
+  } catch {
+    soundOn.value = false
+  }
+}
+
 onMounted(async () => {
   if (!audio.value) return
 
@@ -14,7 +37,13 @@ onMounted(async () => {
     hasStarted.value = true
   } catch {
     soundOn.value = false
+    window.addEventListener('pointerdown', startAfterInteraction)
+    window.addEventListener('keydown', startAfterInteraction)
   }
+})
+
+onBeforeUnmount(() => {
+  removeInteractionListeners()
 })
 
 const toggleSound = async () => {
@@ -33,6 +62,7 @@ const toggleSound = async () => {
     soundOn.value = true
     hasStarted.value = true
     playbackError.value = false
+    removeInteractionListeners()
   } catch {
     playbackError.value = true
   }
