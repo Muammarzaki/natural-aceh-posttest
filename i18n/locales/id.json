@@ -1,0 +1,94 @@
+{
+  "seo": {
+    "title": "Natural Aceh — Manusia dan Alam adalah Satu",
+    "description": "Natural Aceh adalah lembaga riset, pelatihan, dan filantropi yang bekerja bersama masyarakat untuk pembangunan berkelanjutan di Aceh dan Indonesia."
+  },
+  "nav": {
+    "home": "Beranda Natural Aceh",
+    "label": "Navigasi utama",
+    "about": "Tentang kami",
+    "work": "Program kami",
+    "stories": "Cerita",
+    "contact": "Hubungi kami",
+    "menu": "Menu",
+    "close": "Tutup",
+    "switchLanguage": "Ganti bahasa ke English",
+    "openSubmenu": "Buka submenu",
+    "closeSubmenu": "Tutup submenu",
+    "programs": {
+      "wps": "Program WPS",
+      "wpsWomen": "Pemberdayaan ekonomi perempuan",
+      "coastalWomen": "Perempuan pesisir",
+      "livelihood": "Program Penghidupan",
+      "academy": "Natural Akademi",
+      "mangrove": "Pemulihan mangrove",
+      "sdgs": "Program SDGs",
+      "coastalRestoration": "Pemulihan ekosistem pesisir",
+      "climateEducation": "Aksi iklim untuk pemuda",
+      "submit": "Kirim",
+      "article": "Berita & artikel",
+      "partnership": "Kemitraan",
+      "intern": "Magang & relawan",
+      "conservation": "Konservasi"
+    }
+  },
+  "hero": {
+    "motto": "Manusia dan alam adalah satu",
+    "title": "Aksi lokal.",
+    "titleAccent": "Masa depan yang lestari.",
+    "description": "Bersama masyarakat, kami mewujudkan Aceh yang lebih tangguh, inklusif, dan berkelanjutan.",
+    "cta": "Jelajahi program kami",
+    "caption": "Berakar dari Aceh",
+    "imageAlt": "Ombak bertemu garis pantai yang hijau"
+  },
+  "about": {
+    "label": "Tentang Natural Aceh",
+    "title": "Kemajuan tumbuh saat manusia dan alam melangkah",
+    "accent": "bersama.",
+    "description": "Natural Aceh adalah lembaga riset, pelatihan, dan filantropi. Kami bekerja bersama masyarakat dan mitra dalam program pembangunan berkelanjutan di Aceh dan Indonesia.",
+    "link": "Lihat program kami"
+  },
+  "programs": {
+    "kicker": "Berakar di masyarakat",
+    "title": "Tempat perubahan bertumbuh",
+    "intro": "Program Natural Aceh mencakup pemberdayaan perempuan, penghidupan masyarakat, pendidikan, dan pengelolaan lingkungan.",
+    "cards": [
+      { "title": "Program WPS", "detail": "Program Women, Peace and Security mencakup pemberdayaan ekonomi perempuan pesisir dan penghidupan berkelanjutan." },
+      { "title": "Program Penghidupan", "detail": "Program ini mencakup Natural Akademi, usaha berbasis tiram, dan kegiatan pemulihan mangrove." },
+      { "title": "Program SDGs", "detail": "Inisiatifnya meliputi pemulihan ekosistem pesisir, pendidikan pengurangan risiko bencana, dan kesehatan masyarakat." }
+    ],
+    "explore": "Ingin bekerja sama?",
+    "link": "Hubungi kami"
+  },
+  "belief": {
+    "kicker": "Tanggung jawab bersama",
+    "quote": "“Manusia dan alam adalah satu.”",
+    "description": "Dari penghidupan masyarakat pesisir hingga pendidikan dan kepedulian lingkungan, perubahan yang bertahan lama dimulai dengan mendengar pengetahuan lokal dan memberi ruang bagi kepemimpinan masyarakat."
+  },
+  "stories": {
+    "kicker": "Catatan dari lapangan",
+    "title": "Cerita tentang kemajuan",
+    "all": "Semua cerita",
+    "source": "Pilihan cerita dari arsip berita Natural Aceh.",
+    "items": [
+      { "category": "Keadilan lingkungan", "date": "9 Maret 2025", "title": "Melindungi Pembela Lingkungan dan Melawan Kriminalisasi Aktivis di Indonesia", "summary": "Berita tentang ancaman hukum dan kriminalisasi yang dihadapi para pembela lingkungan di Indonesia." },
+      { "category": "Pengetahuan adat", "date": "9 Maret 2025", "title": "Penjaga Aceh: Kearifan Adat di Tengah Krisis Iklim", "summary": "Kisah Panglima Laot, Keujrun Blang, dan Pawang Uteen dalam menjaga laut, lahan pertanian, dan hutan Aceh di tengah tekanan iklim." },
+      { "category": "Kesehatan masyarakat", "date": "7 Maret 2025", "title": "Meningkatkan Keterlibatan Masyarakat dalam Pencegahan dan Penanganan Malaria di Aceh", "summary": "Berita ini membahas pencegahan malaria bagi masyarakat nelayan dan petani di wilayah terpencil Aceh." }
+    ]
+  },
+  "footer": {
+    "kicker": "Mari ciptakan perubahan",
+    "title": "Hal baik bertumbuh",
+    "titleLine2": "saat kita bekerja",
+    "accent": "bersama.",
+    "cta": "Email Natural Aceh",
+    "visit": "Kunjungi kami",
+    "call": "Telepon kami",
+    "helpdesk": "Helpdesk",
+    "explore": "Jelajahi",
+    "official": "Program kami",
+    "follow": "Ikuti & hubungi",
+    "motto": "Manusia dan alam adalah satu.",
+    "backToTop": "Kembali ke atas"
+  }
+}

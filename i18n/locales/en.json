@@ -1,0 +1,94 @@
+{
+  "seo": {
+    "title": "Natural Aceh — Humanity and Nature are One",
+    "description": "Natural Aceh is a research, training and philanthropy institution working with communities for sustainable development in Aceh and Indonesia."
+  },
+  "nav": {
+    "home": "Natural Aceh home",
+    "label": "Main navigation",
+    "about": "About",
+    "work": "Our work",
+    "stories": "Stories",
+    "contact": "Get in touch",
+    "menu": "Menu",
+    "close": "Close",
+    "switchLanguage": "Switch language to Bahasa Indonesia",
+    "openSubmenu": "Open submenu for",
+    "closeSubmenu": "Close submenu for",
+    "programs": {
+      "wps": "WPS Program",
+      "wpsWomen": "Women’s economic empowerment",
+      "coastalWomen": "Coastal women",
+      "livelihood": "Livelihood Program",
+      "academy": "Natural Akademi",
+      "mangrove": "Mangrove restoration",
+      "sdgs": "SDGs Program",
+      "coastalRestoration": "Coastal ecosystem restoration",
+      "climateEducation": "Climate action for youth",
+      "submit": "Submit",
+      "article": "News & articles",
+      "partnership": "Partnership",
+      "intern": "Internship & volunteering",
+      "conservation": "Conservation"
+    }
+  },
+  "hero": {
+    "motto": "Humanity and nature are one",
+    "title": "Local action.",
+    "titleAccent": "A thriving future.",
+    "description": "Working alongside communities to make a more resilient, inclusive and sustainable Aceh.",
+    "cta": "Discover our work",
+    "caption": "Our work, rooted in Aceh",
+    "imageAlt": "Waves meeting the green coastline"
+  },
+  "about": {
+    "label": "About Natural Aceh",
+    "title": "Progress grows when people and nature move forward",
+    "accent": "together.",
+    "description": "Natural Aceh is a research, training and philanthropy institution. We work with communities and partners on sustainable development programs across Aceh and Indonesia.",
+    "link": "See our work"
+  },
+  "programs": {
+    "kicker": "Rooted in community",
+    "title": "Where change takes shape",
+    "intro": "Natural Aceh’s published programs connect women’s empowerment, community livelihoods, education and environmental stewardship.",
+    "cards": [
+      { "title": "WPS Program", "detail": "The Women, Peace and Security program includes work with coastal women on economic empowerment and sustainable livelihoods." },
+      { "title": "Livelihood Program", "detail": "Community livelihood work includes Natural Akademi, oyster-based enterprise and mangrove restoration activities." },
+      { "title": "SDGs Program", "detail": "Initiatives include coastal ecosystem restoration, disaster risk reduction education and community health." }
+    ],
+    "explore": "Interested in working together?",
+    "link": "Get in touch"
+  },
+  "belief": {
+    "kicker": "A shared responsibility",
+    "quote": "“Humanity and nature are one.”",
+    "description": "From coastal livelihoods to education and environmental stewardship, lasting change starts by listening to local knowledge and making room for local leadership."
+  },
+  "stories": {
+    "kicker": "Notes from the field",
+    "title": "Stories of progress",
+    "all": "All stories",
+    "source": "Selected stories from Natural Aceh’s published news archive.",
+    "items": [
+      { "category": "Environmental justice", "date": "9 March 2025", "title": "Protecting Environmental Defenders, Combating the Criminalization of Activists in Indonesia", "summary": "A report on the legal threats and criminalization faced by environmental defenders in Indonesia." },
+      { "category": "Indigenous knowledge", "date": "9 March 2025", "title": "Guardians of Aceh: Indigenous Wisdom in the Climate Crisis", "summary": "The story follows Panglima Laot, Keujrun Blang and Pawang Uteen as they protect Aceh’s sea, farmland and forests amid climate pressures." },
+      { "category": "Community health", "date": "7 March 2025", "title": "Enhancing Community Engagement in Malaria Prevention and Response in Aceh", "summary": "The article focuses on malaria prevention for fishing and farming communities in remote parts of Aceh." }
+    ]
+  },
+  "footer": {
+    "kicker": "Let’s make a difference",
+    "title": "Good things grow",
+    "titleLine2": "when we work",
+    "accent": "together.",
+    "cta": "Email Natural Aceh",
+    "visit": "Visit us",
+    "call": "Call us",
+    "helpdesk": "Helpdesk",
+    "explore": "Explore",
+    "official": "Our work",
+    "follow": "Follow & contact",
+    "motto": "Humanity and nature are one.",
+    "backToTop": "Back to top"
+  }
+}

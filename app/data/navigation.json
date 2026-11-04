@@ -1,0 +1,481 @@
+{
+  "sourceUrl": "https://naturalaceh.org/",
+  "scrapedAt": "2026-11-04T07:34:10.999Z",
+  "items": [
+    {
+      "key": "programs",
+      "label": "Programs",
+      "labelId": "Program",
+      "children": [
+        {
+          "label": "WPS Program",
+          "url": "https://naturalaceh.org/wps/",
+          "children": [
+            {
+              "label": "Coastal women",
+              "url": "https://naturalaceh.org/coastal-women/",
+              "children": []
+            },
+            {
+              "label": "Health and Environmental Equity",
+              "url": "https://naturalaceh.org/health-and-environmental-equity/",
+              "children": []
+            },
+            {
+              "label": "Economic empowerment of women in Indonesia",
+              "url": "https://naturalaceh.org/economic-empowerment-of-women-in-indonesia/",
+              "children": []
+            },
+            {
+              "label": "Women Empowerment Initiative for Coastal Sustainability in Aceh",
+              "url": "https://naturalaceh.org/women-empowerment-initiative-for-coastal-sustainability-in-aceh/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Livelihood Program",
+          "url": "https://naturalaceh.org/alue-naga/",
+          "children": [
+            {
+              "label": "Akademi",
+              "url": "https://naturalaceh.org/akademi/",
+              "children": []
+            },
+            {
+              "label": "Restoration Ongoing Project: Mangrove Restoration",
+              "url": "https://naturalaceh.org/restoration-ongoing-project-mangrove-restoration/",
+              "children": []
+            },
+            {
+              "label": "Nature as Infrastructure",
+              "url": "https://naturalaceh.org/nature-as-infrastructure/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "SDGs Program",
+          "url": "https://naturalaceh.org/sdgs-program/",
+          "children": [
+            {
+              "label": "sumatraSIG",
+              "url": "https://naturalaceh.org/sumatrasig/",
+              "children": []
+            },
+            {
+              "label": "Ecolabels/Sustainable Public Procurement",
+              "url": "https://naturalaceh.org/ecolabels-sustainable-public-procurement/",
+              "children": []
+            },
+            {
+              "label": "Microclimate Risk Insurance",
+              "url": "https://naturalaceh.org/microclimate-risk-insurance/",
+              "children": []
+            },
+            {
+              "label": "Coastal Ecosystem Restoration",
+              "url": "https://naturalaceh.org/coastal-ecosystem-restoration/",
+              "children": []
+            },
+            {
+              "label": "Cross-border Collaboration for Climate Change Adaptation",
+              "url": "https://naturalaceh.org/cross-border-collaboration-for-climate-change-adaptation/",
+              "children": []
+            },
+            {
+              "label": "Integrating Disaster Risk Reduction Education in Aceh",
+              "url": "https://naturalaceh.org/integrating-disaster-risk-reduction-education-in-aceh/",
+              "children": []
+            },
+            {
+              "label": "Green Health Care Solutions",
+              "url": "https://naturalaceh.org/green-health-care-solutions/",
+              "children": []
+            },
+            {
+              "label": "Hansen’s disease",
+              "url": "https://naturalaceh.org/hansens-disease/",
+              "children": []
+            },
+            {
+              "label": "Empowering Coastal Communities for Sustainable Environmental Stewardship",
+              "url": "https://naturalaceh.org/empowering-coastal-communities-for-sustainable-environmental-stewardship/",
+              "children": []
+            },
+            {
+              "label": "Jaminan Penghasilan Aceh (Bungkesmas)",
+              "url": "https://naturalaceh.org/jaminan-penghasilan-aceh-bungkesmas/",
+              "children": []
+            },
+            {
+              "label": "GuruCerdas",
+              "url": "https://naturalaceh.org/gurucerdas/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Conservation",
+          "url": "https://naturalaceh.org/conservation/",
+          "children": [
+            {
+              "label": "Anoa",
+              "url": "https://naturalaceh.org/anoa/",
+              "children": []
+            },
+            {
+              "label": "Land Restoration",
+              "url": "https://naturalaceh.org/land-restoration/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "stories",
+      "label": "Stories",
+      "labelId": "Berita & cerita",
+      "children": [
+        {
+          "label": "Our Activities",
+          "url": "https://naturalaceh.org/our-activities/",
+          "children": []
+        },
+        {
+          "label": "Achievements",
+          "url": "https://naturalaceh.org/achievements/",
+          "children": []
+        },
+        {
+          "label": "News",
+          "url": "https://naturalaceh.org/news/",
+          "children": []
+        },
+        {
+          "label": "Video",
+          "url": "https://naturalaceh.org/video/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "participate",
+      "label": "Get involved",
+      "labelId": "Berpartisipasi",
+      "children": [
+        {
+          "label": "Submit",
+          "url": "https://naturalaceh.org/qris/",
+          "children": [
+            {
+              "label": "ISBN",
+              "url": "https://naturalaceh.org/isbn/",
+              "children": []
+            },
+            {
+              "label": "Article",
+              "url": "https://naturalaceh.org/article/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Partnership",
+          "url": "https://naturalaceh.org/partnership/",
+          "children": []
+        },
+        {
+          "label": "Social Enterprise",
+          "url": "https://naturalaceh.org/social-enterprise/",
+          "children": []
+        },
+        {
+          "label": "Intern",
+          "url": "https://naturalaceh.org/intern/",
+          "children": [
+            {
+              "label": "Magang SMK",
+              "url": "https://naturalaceh.org/magang-smk/",
+              "children": []
+            },
+            {
+              "label": "Magang Mandiri",
+              "url": "https://naturalaceh.org/magang-mandiri/",
+              "children": []
+            },
+            {
+              "label": "MSIB",
+              "url": "https://naturalaceh.org/msib/",
+              "children": [
+                {
+                  "label": "Marketing Asuransi Mikro",
+                  "url": "https://naturalaceh.org/marketing-asuransi-mikro/",
+                  "children": []
+                },
+                {
+                  "label": "Social Media Specialist",
+                  "url": "https://naturalaceh.org/social-media-specialist/",
+                  "children": []
+                },
+                {
+                  "label": "Asisten Pengembangan Program Filantropi",
+                  "url": "https://naturalaceh.org/655-2/",
+                  "children": []
+                },
+                {
+                  "label": "Pemasaran dan Pelayanan Pelanggan",
+                  "url": "https://naturalaceh.org/653-2/",
+                  "children": []
+                },
+                {
+                  "label": "Produksi dan Pengembangan Produk",
+                  "url": "https://naturalaceh.org/651-2/",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "Magang Dalam Negeri",
+              "url": "https://naturalaceh.org/magang-dalam-negeri/",
+              "children": []
+            },
+            {
+              "label": "Magang Umum/Relawan",
+              "url": "https://naturalaceh.org/magang-umum-relawan/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Career",
+          "url": "https://naturalaceh.org/career/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "resources",
+      "label": "Resources",
+      "labelId": "Sumber daya",
+      "children": [
+        {
+          "label": "Books",
+          "url": "https://naturalaceh.org/books/",
+          "children": [
+            {
+              "label": "2026",
+              "url": "https://naturalaceh.org/2026-2/",
+              "children": [
+                {
+                  "label": "Wiwin Haryati",
+                  "url": "https://naturalaceh.org/wiwin-haryati/",
+                  "children": []
+                },
+                {
+                  "label": "Banjir",
+                  "url": "https://naturalaceh.org/banjir/",
+                  "children": []
+                },
+                {
+                  "label": "Keterampilan Dasar dalam  Mengajar",
+                  "url": "https://naturalaceh.org/keterampilan-dasar-mengajar/",
+                  "children": []
+                },
+                {
+                  "label": "BIMBINGAN KLINIK PRECEPTORSHIP",
+                  "url": "https://naturalaceh.org/modul-bimbingan-klinik-preceptorship/",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "2025",
+              "url": "https://naturalaceh.org/2025-2/",
+              "children": [
+                {
+                  "label": "MAKANAN SEHAT BERSPEKTIF IKLIM",
+                  "url": "https://naturalaceh.org/makanan-sehat-berspektif-iklim/",
+                  "children": []
+                },
+                {
+                  "label": "MODUL EDUKASI MANGROVE",
+                  "url": "https://naturalaceh.org/modul-edukasi-mangrove/",
+                  "children": []
+                },
+                {
+                  "label": "ADAPTASI PENGELOLAAN AIR DAN SANITASI",
+                  "url": "https://naturalaceh.org/adaptasi-pengelolaan-air-dan-sanitasi/",
+                  "children": []
+                },
+                {
+                  "label": "INSEKTA PERSAWAHAN",
+                  "url": "https://naturalaceh.org/insekta-persawahan/",
+                  "children": []
+                },
+                {
+                  "label": "Muslem Daud",
+                  "url": "https://naturalaceh.org/muslem-daud/",
+                  "children": []
+                },
+                {
+                  "label": "Risna Erita",
+                  "url": "https://naturalaceh.org/risna-erita/",
+                  "children": []
+                },
+                {
+                  "label": "KAJIAN MATERI FISIKA",
+                  "url": "https://naturalaceh.org/kajian-materi-fisika/",
+                  "children": []
+                },
+                {
+                  "label": "IPA TERPADU UNTUK SMP (Jilid I)",
+                  "url": "https://naturalaceh.org/ipa-terpadu-untuk-smp/",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "2024",
+              "url": "https://naturalaceh.org/2024-2/",
+              "children": [
+                {
+                  "label": "Erdi Surya",
+                  "url": "https://naturalaceh.org/erdi-surya/",
+                  "children": []
+                },
+                {
+                  "label": "Pengelolaan Produksi Hasil Perkebunan",
+                  "url": "https://naturalaceh.org/zul-erianto-3/",
+                  "children": []
+                },
+                {
+                  "label": "Kapita Selekta Perkebunan",
+                  "url": "https://naturalaceh.org/zul-erianto-2/",
+                  "children": []
+                },
+                {
+                  "label": "Zul Erianto",
+                  "url": "https://naturalaceh.org/zul-erianto/",
+                  "children": []
+                },
+                {
+                  "label": "DEWIYULIANA",
+                  "url": "https://naturalaceh.org/dewiyuliana/",
+                  "children": []
+                },
+                {
+                  "label": "Kesehatan Mental Remaja",
+                  "url": "https://naturalaceh.org/kesehatan-mental-remaja/",
+                  "children": []
+                },
+                {
+                  "label": "Elang si Pembully",
+                  "url": "https://naturalaceh.org/elang-si-pembully/",
+                  "children": []
+                },
+                {
+                  "label": "Berpetualang Bersama Para Hewan",
+                  "url": "https://naturalaceh.org/berpetualang-bersama-para-hewan/",
+                  "children": []
+                },
+                {
+                  "label": "Irhamni dkk",
+                  "url": "https://naturalaceh.org/irhamni-dkk/",
+                  "children": []
+                },
+                {
+                  "label": "Radhiana dkk",
+                  "url": "https://naturalaceh.org/radhiana-dkk/",
+                  "children": []
+                },
+                {
+                  "label": "Rana dkk",
+                  "url": "https://naturalaceh.org/rana-dkk/",
+                  "children": []
+                },
+                {
+                  "label": "Delfa",
+                  "url": "https://naturalaceh.org/ria-dkk/",
+                  "children": []
+                },
+                {
+                  "label": "Bayu Ilham Sari",
+                  "url": "https://naturalaceh.org/bayu-ilham-sari/",
+                  "children": []
+                },
+                {
+                  "label": "Lelaki Pemakan Tanah",
+                  "url": "https://naturalaceh.org/lelaki-pemakan-tanah/",
+                  "children": []
+                },
+                {
+                  "label": "Brisk Walking Actyvity Therapy (BRAT) untuk hipertensi",
+                  "url": "https://naturalaceh.org/brisk-walking-actyvity-therapy-brat-untuk-hipertensi/",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "label": "2021",
+              "url": "https://naturalaceh.org/2021-2/",
+              "children": []
+            },
+            {
+              "label": "2020",
+              "url": "https://naturalaceh.org/2020-2/",
+              "children": []
+            },
+            {
+              "label": "2019",
+              "url": "https://naturalaceh.org/buku2019/",
+              "children": []
+            },
+            {
+              "label": "2018",
+              "url": "https://naturalaceh.org/2018-2/",
+              "children": []
+            },
+            {
+              "label": "2017",
+              "url": "https://naturalaceh.org/2017-2/",
+              "children": []
+            },
+            {
+              "label": "2016",
+              "url": "https://naturalaceh.org/2016-2/",
+              "children": []
+            },
+            {
+              "label": "2015",
+              "url": "https://naturalaceh.org/2015-2/",
+              "children": []
+            },
+            {
+              "label": "2014",
+              "url": "https://naturalaceh.org/2014-2/",
+              "children": []
+            },
+            {
+              "label": "2013",
+              "url": "https://naturalaceh.org/2013-2/",
+              "children": []
+            }
+          ]
+        },
+        {
+          "label": "Login",
+          "url": "https://naturalaceh.org/login/",
+          "children": [
+            {
+              "label": "Detail Dokumen Online",
+              "url": "https://naturalaceh.org/detail-dokumen-online/",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
