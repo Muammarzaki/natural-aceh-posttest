@@ -3,6 +3,14 @@
     "title": "Natural Aceh — Manusia dan Alam adalah Satu",
     "description": "Natural Aceh adalah lembaga riset, pelatihan, dan filantropi yang bekerja bersama masyarakat untuk pembangunan berkelanjutan di Aceh dan Indonesia."
   },
+  "audio": {
+    "play": "Putar musik latar",
+    "unmute": "Nyalakan suara musik latar",
+    "mute": "Bisukan musik latar",
+    "on": "Suara aktif",
+    "off": "Suara mati",
+    "error": "Musik latar tidak dapat diputar. Periksa pengaturan audio browser."
+  },
   "nav": {
     "home": "Beranda Natural Aceh",
     "label": "Navigasi utama",

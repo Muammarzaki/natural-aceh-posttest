@@ -27,6 +27,7 @@ const toggleLocale = async () => {
         <ul class="primary-menu">
           <NavMenuItem v-for="item in navigationData.items" :key="item.key ?? item.url ?? item.label" :item="item" @navigate="closeMenu" />
         </ul>
+        <BackgroundAudioControl />
         <button class="language-switch" type="button" :aria-label="t('nav.switchLanguage')" @click="toggleLocale">{{ locale === 'id' ? 'EN' : 'ID' }}</button>
       </nav>
     </div>

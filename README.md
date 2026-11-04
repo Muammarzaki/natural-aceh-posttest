@@ -70,3 +70,5 @@ The script groups source items into Programs, Stories, Get involved, and Resourc
 npm run build
 npm run preview
 ```
+
+Background music attempts to autoplay. The small fixed control in the bottom-right corner mutes or unmutes it and provides localized accessible labels. Browsers that block audible autoplay can start playback from the same control.

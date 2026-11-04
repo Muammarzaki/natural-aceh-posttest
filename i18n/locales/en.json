@@ -3,6 +3,14 @@
     "title": "Natural Aceh — Humanity and Nature are One",
     "description": "Natural Aceh is a research, training and philanthropy institution working with communities for sustainable development in Aceh and Indonesia."
   },
+  "audio": {
+    "play": "Play background music",
+    "unmute": "Unmute background music",
+    "mute": "Mute background music",
+    "on": "Sound on",
+    "off": "Sound off",
+    "error": "Background music could not be played. Check your browser audio settings."
+  },
   "nav": {
     "home": "Natural Aceh home",
     "label": "Main navigation",
